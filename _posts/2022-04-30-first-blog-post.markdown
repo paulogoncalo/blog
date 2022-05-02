@@ -3,7 +3,7 @@ layout:     post
 title:      "Example Post"
 subtitle:   "Subtitle"
 date:       2022-04-30
-author:     "Hux"
+author:     "Paulo Gonçalo"
 header-img: "img/post-bg-js-version.jpg"
 tags:
     - Blog
