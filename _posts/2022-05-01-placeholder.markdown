@@ -17,7 +17,7 @@ tags:
 JavaScript Test.
 
 
-![spring](/blog/img/in-post/spring-log.png)
+![spring](/blog/img/in-post/spring-logo.png)
 <small class="img-hint">spring logo</small>
 
 > quote
